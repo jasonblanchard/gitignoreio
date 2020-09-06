@@ -16,7 +16,7 @@ make install
 
 ## Usage
 
-```bash
+```
 $ gitignoreio
 
 A CLI interface for gitignore.io
